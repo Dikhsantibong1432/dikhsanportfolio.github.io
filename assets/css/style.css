@@ -471,12 +471,13 @@ section {
   height: 10px;
 }
 
-.skills .progress-bar {
+.skills .progress-bar  {
   width: 1px;
   height: 10px;
   transition: 0.9s;
   background-color: #149ddd;
 }
+
 
 /*--------------------------------------------------------------
 # Resume
@@ -538,6 +539,14 @@ section {
   background: #fff;
   border: 2px solid #1f5297;
 }
+
+/* Ukuran tambahan untuk gambar thumbnail */
+.img-thumbnail {
+  max-width: 300px; /* Sesuaikan ukuran lebar sesuai keinginan Anda */
+  max-height: 300px; /* Sesuaikan ukuran tinggi sesuai keinginan Anda */
+}
+
+
 
 /*--------------------------------------------------------------
 # Portfolio
