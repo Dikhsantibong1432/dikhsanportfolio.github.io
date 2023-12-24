@@ -242,7 +242,10 @@ h6 {
   opacity: 1; /* Opacity normal saat tidak dihover */
   transition: opacity 2s; /* Efek transisi opacity selama 0.3 detik */
 
+
 }
+
+
 .mobile-nav-active #header {
   left: 0;
 }
